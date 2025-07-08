@@ -25,9 +25,7 @@
 
 | No | 프로젝트 이름                   | 설명                                         | 기술 스택                          | 링크                                      |
 |----|------------------------------|--------------------------------------------|------------------------------------|-------------------------------------------|
-| 1  | **친해지길 바라**          | 우리 반 친구들끼리 더 친숙해지고, 서로에 대해 알아가며 협력할 수 있는 Java Console 애플리케이션  | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
- ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
- | [GitHub 링크](https://github.com/LeeJoEun-01/FISA_1st_mini_Project)             |
+| 1  | **친해지길 바라**          | 우리 반 친구들끼리 더 친숙해지고, 서로에 대해 알아가며 협력할 수 있는 Java Console 애플리케이션  | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) | [GitHub 링크](https://github.com/LeeJoEun-01/FISA_1st_mini_Project)             |
 
 
 <br>
