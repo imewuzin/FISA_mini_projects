@@ -31,7 +31,7 @@
 ### 📒 학습 내용
 | No | 주제 | 링크|
 |---|---|---|
-|1|RDBMS SQL 문법 및 실습 | [Github 링크](https://github.com/imewuzin/FISA_mini_projects/RDBMS_SQL)
+|1|RDBMS SQL 문법 및 실습 |[ [Github 링크](https://github.com/imewuzin/FISA_mini_projects/blob/master/RDBMS%20SQL/README.md))
 <br>
 
 *이 레포지토리는 지속적으로 업데이트됩니다.*
