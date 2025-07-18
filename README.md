@@ -1,9 +1,9 @@
 # 우리FISA 미니 프로젝트 모음
-*최종 업데이트: 2025년 7월 08일*  
+*최종 업데이트: 2025년 7월 16일*  
 
 **우리FISA에서 진행한 미니 프로젝트들과 학습 내용을 모아놓은 레포지토리**입니다.😊
 
-![프로젝트 타임라인](https://github.com/imewuzin/FISA_mini_projects/blob/master/FISA%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8.png)
+![프로젝트 타임라인](https://github.com/imewuzin/FISA_mini_projects/blob/master/FISA%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8.png)
 
 <br>
 
@@ -12,18 +12,12 @@
 
 ## 🌟 주요 프로젝트
 
-| No | 프로젝트 이름                  | 사진                             | 주요 내용                                        | 링크                                                                       |
-|----|-----------------------------|--------------------------------|-------------------------------------------------|----------------------------------------------------------------------------|
-| 1  | **To Be Continued** | | | |
-
-
-<br>
-
-### 🖥️ Java & Server
-
 | No | 프로젝트 이름                   | 설명                                         | 기술 스택                          | 링크                                      |
 |----|------------------------------|--------------------------------------------|------------------------------------|-------------------------------------------|
-| 1  | **친해지길 바라**          | 우리 반 친구들끼리 더 친숙해지고, 서로에 대해 알아가며 협력할 수 있는 Java Console 애플리케이션  | ![Java](https://img.shields.io/badge/Java-007396?style=square&logo=java&logoColor=white) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=square&logo=eclipse&logoColor=white) | [GitHub 링크](https://github.com/LeeJoEun-01/FISA_1st_mini_Project)             |
+| 1  | **친해지길 바라**          | 우리 반 친구들끼리 더 친숙해지고, 서로에 대해 알아가며 협력할 수 있는 Java Console 애플리케이션  | ![Java](https://img.shields.io/badge/Java-007396?style=square&logo=java&logoColor=white) ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=square&logo=eclipse&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=square&logo=github-actions&logoColor=white)| [GitHub 링크](https://github.com/LeeJoEun-01/FISA_1st_mini_Project)             |
+| 2  | **TrendSpot**          | 소상공인이 창업 전략을 세울 수 있도록 경기 서부 지역 카드 소비 데이터를 분석·시각화하고, 다양한 파티셔닝 기법을 적용해 성능을 비교한 데이터 기반 인사이트 플랫폼 개발 프로젝트| ![React](https://img.shields.io/badge/React-20232A?style=square&logo=react&logoColor=61DAFB) ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=square&logo=chart.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=square&logo=pandas&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=square&logo=google-colab&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=square&logo=mysql&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-28a745?style=square&logo=dbeaver&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=square&logo=ubuntu&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=square&logo=virtualbox&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=square&logo=github-actions&logoColor=white) | [GitHub 링크](https://github.com/ChatHongPT/TrendSpot)             |
+
+
 
 
 <br>
